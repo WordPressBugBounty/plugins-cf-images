@@ -1,3 +1,23 @@
+= 1.9.8 - 31.12.2025 =
+
+Fixed:
+* Version conflict
+
+= 1.9.8 - 31.12.2025 =
+
+Fixed:
+* Fatal error with latest RankMath update
+
+= 1.9.6 - 11.11.2025 =
+
+Added:
+* Track image changes and update images on Cloudflare
+
+Fixed:
+* Performance issues with network installs
+* Network installs
+* Prevent unauthenticated users from changing the settings
+
 = 1.9.5 - 06.07.2025 =
 
 Added:
